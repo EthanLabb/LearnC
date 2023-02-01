@@ -6,6 +6,7 @@ Repository for learning C and C++ through projects with example code made by Eth
 
 <p>
 1. GPA Calculator <br \>
-2. Number Guesser
+2. Binary Search Number Guessing Algorithm <br \>
+3. Second Order Homogenous Differential Equation Solver <br \>
 
 </p>
